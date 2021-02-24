@@ -98,6 +98,7 @@ body {
 .quiz-header {
   background-color: cadetblue;
   width: 90%;
+  height: 210px;
   padding: 80px;
   margin: 0 0 100px;
   display: flex;
